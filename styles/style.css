@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+.container{
+        background-color: blanchedalmond;
+        max-width: 90%;
+        padding-bottom:100px;
+        margin:10px auto;
+        border-radius: 6px;
+        box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+h1{
+    font-size: 42px;
+    padding-top:55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 19px;
+    padding-bottom:40px;
+}
+
+.page-links a{
+    color:palevioletred;
+    padding:16px;
+}
+
+.page-links:visited{
+    color:palevioletred;
+}
+
+img{
+    padding-bottom:25px;
+}
